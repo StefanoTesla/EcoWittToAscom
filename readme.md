@@ -6,7 +6,7 @@ Anyway, this driver is able to read the data provided by your EcoWitt weather st
 
 Actually I test it only with the WS90 weather station reading the data from the GW2001 hub.
 
-In thoery is complatible with all the EcoWitt weather stations made by EcoWitt that can connect to the WiFi.
+In theory is complatible with all the EcoWitt weather stations made by EcoWitt that can connect to the WiFi.
 
 ## Setup
 
