@@ -18,7 +18,7 @@ Open your preferite software, I use N.I.N.A., when you need to choose the driver
 
 ![image](https://github.com/user-attachments/assets/80f09ad6-dea8-41cb-9188-c109f6a8de05)
 
-Out the IP address of your weather station, and click Test!
+Add the IP address of your weather station (best if you give a static IP to the weather station), and click Test!
 
 If everything is good this message will appear:
 
